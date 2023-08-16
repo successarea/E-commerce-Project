@@ -1,5 +1,6 @@
 #  E-Commerce Project. 
 ## An online shopping platform that offers a variety of products including mobile phones, refrigerators, and TVs.
+### Features
 - Products are likes: Mobile Phones, Refrigerators, and TVs.
 - Each product displays a range of available items with details such as name, price, and image.
 - Users can add products to their shopping carts.
